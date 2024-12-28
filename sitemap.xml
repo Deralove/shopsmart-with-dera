@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.shopsmartwithdera.com/</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.shopsmartwithdera.com/#about</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.shopsmartwithdera.com/#contact</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ShopSmart with Dera</title>
+  <link href="https://www.shopsmartwithdera.com/" />
+  <updated>2024-12-28T12:00:00Z</updated>
+  <id>https://www.shopsmartwithdera.com/</id>
+  
+  <entry>
+    <title>Homepage</title>
+    <link href="https://www.shopsmartwithdera.com/" />
+    <updated>2024-12-28T12:00:00Z</updated>
+    <id>https://www.shopsmartwithdera.com/</id>
+  </entry>
+</feed>
